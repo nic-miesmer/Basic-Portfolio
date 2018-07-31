@@ -1,0 +1,24 @@
+.header{
+    margin-bottom:10px;
+    border:1px;
+    border-color: black;
+    border-style: solid;
+    overflow:hidden;
+    clear:both;
+}
+
+.main-content{
+    width:960px;
+    margin:auto;
+    background: white;
+    border: 3px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.footer {
+    padding:10px;
+    text-align: center;
+    background:violet;
+    border-style:solid;
+}
