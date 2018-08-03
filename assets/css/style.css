@@ -46,3 +46,8 @@
 #profile-pic{
     float:left;
 }
+
+td a {
+    margin:15px;
+
+}
