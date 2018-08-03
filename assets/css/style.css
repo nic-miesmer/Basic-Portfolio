@@ -55,13 +55,16 @@
 div a {
     float:left;
     margin: 15px;
-    /* clear: both; */
 }
 
- /* a:nth-child(2) {
-    clear: both;
+.float-left{
+    float:left;
+}
 
-} */
+.clearfix{
+    clear:both;
+}
+
 
 input{
     width: 925px;
