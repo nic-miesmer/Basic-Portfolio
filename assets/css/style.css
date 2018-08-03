@@ -47,7 +47,20 @@
     float:left;
 }
 
+.contact-text{
+    margin-left: 15px;
+}
+
 td a {
     margin:15px;
 
+}
+
+input{
+    width: 925px;
+}
+
+textarea{
+    width: 925px;
+    height: 300px;
 }
