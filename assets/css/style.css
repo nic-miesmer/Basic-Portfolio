@@ -51,10 +51,17 @@
     margin-left: 15px;
 }
 
-td a {
-    margin:15px;
 
+div a {
+    float:left;
+    margin: 15px;
+    /* clear: both; */
 }
+
+ /* a:nth-child(2) {
+    clear: both;
+
+} */
 
 input{
     width: 925px;
