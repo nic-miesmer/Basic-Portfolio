@@ -34,24 +34,29 @@
     <div class=main-content>
         <h1>Contact</h1>
         <hr/>
-
+<form action="mailto:nic.miesmer@gmail.com" >
         <div class = "contact-text">
-        First Mame: <br><input type="text" name="first"><br>
+        Name: <br><input type="text"  name="name"><br>
         </div>
         <div class = "contact-text">
                 Email: 
                 <br>
-                <input type="text" name="email">
+                <input type="text" for="email" name="email">
                 <br>
         </div>
 
         <div class = "contact-text">
             Message: 
         <br>
-        <textarea></textarea>
+        <textarea type="text" name="message" >
+
+        </textarea>
         <br>
 
         </div>
+
+        <input id="submit" type="submit" value="Submit">
+    </form>
     </div>
 </div>
 <!-- footer -->

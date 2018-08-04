@@ -114,3 +114,12 @@ textarea{
     position: relative;
 }
 
+#submit {
+    background: #4aaaa5;
+    color: #ffffff; 
+    padding: 10px;
+    width: auto;
+    margin:15px;
+
+}
+
