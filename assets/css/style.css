@@ -48,8 +48,7 @@ body{
 }
 
 .main-content-container{
-    background:gray
-}
+    background-image: url(../images/rebel/rebel.png);}
 
 #about-me-text{
     line-height: 2;
