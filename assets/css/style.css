@@ -74,3 +74,23 @@ textarea{
     width: 925px;
     height: 300px;
 }
+
+.img-text{
+    position: absolute;
+    bottom: 0;
+    right: 175px;
+
+}
+
+.img-text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+    background: lightcoral;
+    padding-left: 166px;
+    padding-right: 154px;
+}
+
+.portfolio-image{
+    position: relative;
+}
