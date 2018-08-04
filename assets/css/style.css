@@ -106,10 +106,9 @@ textarea{
     right: 15px;
     background: #4aaaa5;
     color:  #ffffff; 
-    padding-left: 152px;
-    padding-right: 154px;
-    font-size: 24px;
     margin-bottom:15px;
+    width:350px;
+    text-align: center;
 }
 
 .portfolio-image{
